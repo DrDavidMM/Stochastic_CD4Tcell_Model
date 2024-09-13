@@ -1,4 +1,4 @@
-# Stochastic Modeling of CD4 T Cell Differentiation Under Variable Noise Conditions
+# Stochastic Modeling of Lymphocytes Differentiation Under Variable Noise Conditions
 
 This repository contains the code and data used in the study titled "Modeling uncertainty: the impact of noise in T cell differentiation" by David Martínez-Méndez, Carlos Villarreal, and Leonor Huerta. The study investigates the influence of intrinsic noise on the differentiation of CD4 T cells into various effector phenotypes (Th1, Th2, Th17, Treg, TFH) under different cytokine and nutrient conditions.
 
